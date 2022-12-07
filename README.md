@@ -1,2 +1,2 @@
-# LiDAR-SPAM
-Flood LiDAR sensor on an autoware autonomous vehicle
+# Cluster-SPAM
+Flood Euclidian Cluster sensor on an autoware autonomous vehicle
