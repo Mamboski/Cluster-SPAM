@@ -6,3 +6,5 @@ My Contribution:
 2. Brainstorming for implementation techniques and discovery
 3. Sensor isolation technique via wireshark filters
 4. Attack implementation section in report
+5. Proofreading and revisions in report.
+6. Participated in implementation demonstration
