@@ -5,4 +5,4 @@ My Contribution:
 1. Initial outline of attack steps and goals for each level
 2. Brainstorming for implementation techniques and discovery
 3. Sensor isolation technique via wireshark filters
-4. Attack hypothetical defences, strengths, weaknesses
+4. Attack implementation section in report
